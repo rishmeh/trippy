@@ -1,0 +1,48 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: rgb(255, 255, 255);
+  font-family: sans-serif;
+  color: white;
+}
+
+#app {
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+  width: 100vw;
+}
+
+canvas {
+  overflow: hidden;
+  flex: 1;
+  display: block;
+  height: 95vh;
+}
+
+#controls {
+  width: 500px;
+  background: rgba(20, 20, 20, 0.95);
+  padding: 1rem;
+  border-left: 2px solid #444;
+  box-sizing: border-box;
+  color: black;
+  background-color: whitesmoke;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#controls h3 {
+  margin-top: 0;
+}
+
+#controls label {
+  display: block;
+  margin: 1rem 0;
+  font-size: 1.2rem;
+}
+
+#controls input[type="range"] {
+  width: 80%;
+  display: block;
+}
