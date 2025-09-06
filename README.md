@@ -1,6 +1,3 @@
-Perfect 👍 I'll make you a clean **README.md** for your Vite + Vanilla JS canvas animation project, with instructions for building and deploying on **GitHub Pages**.
-
----
 
 ## 📄 README.md
 
@@ -16,8 +13,8 @@ The animation draws bouncing circles that connect with lines when close to each 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/rishmeh/trippy.git
+cd trippy
 ````
 
 ### 2. Install dependencies
