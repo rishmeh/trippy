@@ -1,7 +1,7 @@
 
 ## 📄 README.md
 
-````markdown
+
 # 🎨 Canvas Animation with Vite (Vanilla JS)
 
 An interactive canvas animation built with **Vanilla JavaScript** and bundled using [Vite](https://vitejs.dev/).  
